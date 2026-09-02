@@ -49,6 +49,13 @@
 <td><strong>1.8 — Casos de Uso — Especificação</strong></td>
 <td>Detalhamento dos casos de uso, incluindo atores, fluxos, condições e comportamentos esperados.</td>
 </tr>
+
+<tr>
+<td><strong>1.9 - Casos de usos - Especificação</strong></td>
+<td> Descrição pendente .. .</td>
+</tr>
+
+
 </table>
 
 <h3>🎯 Objetivo</h3>
